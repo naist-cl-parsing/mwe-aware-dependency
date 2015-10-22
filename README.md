@@ -29,6 +29,11 @@ We built the corpus according to the following method.
 
 MWE-aware Dependency and associated documentation can be downloaded from: <https://github.com/naist-cl-parsing/mwe-aware-dependency>
 
+## Note
+We are currently being confirmed at LDC about the appropriate license for our language resource, because our resource is based on Ontonotes release-5.0 (LDC2013T19).
+
+Therefore, our resource will be available after we'll get the response from LDC.
+
 ## Files
 
 ### dependency
@@ -103,7 +108,7 @@ Then, apply the patch.
 (http://ilk.uvt.nl/conll/)
 
 ## History
-  - MWE-aware Dependency 1.0: 2015-10-15.
+  - MWE-aware Dependency 1.0: 2015-10-22.
 
 ## Contact
 - Please e-mail kato.akihiko.ju6 /at/ is.naist.jp with questions.
