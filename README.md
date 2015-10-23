@@ -14,6 +14,8 @@ We built the corpus according to the following method.
 
   2. We replaced the above subtree by a preterminal with its leaf node as a child. The preterminal has the same part of speech as that of the MWE. Its child node is made by joining all components of the MWE with underscores.
 
+  ![Replacement (a_number_of)](./img/a_no_of_concatenation.png)
+
   3. We converted the phrase structure into Stanford Dependency [2].
        - We designated "-conllx -basic -makeCopulaHead -keepPunct" as a option for the conversion command.
        - We show an example of MWE-aware Dependency here.
@@ -108,7 +110,7 @@ Then, apply the patch.
 (http://ilk.uvt.nl/conll/)
 
 ## History
-  - MWE-aware Dependency 1.0: 2015-10-22.
+  - MWE-aware Dependency 1.0: 2015-10-23.
 
 ## Contact
 - Please e-mail kato.akihiko.ju6 /at/ is.naist.jp with questions.
