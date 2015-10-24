@@ -1,4 +1,4 @@
-# MWE-aware Dependency Corpus
+# MWE-aware English Dependency Corpus
 
 We provide users with an English dependency corpus taking into account compound function words, which are one type of multiword expressions (MWEs) and serve as functional expressions.
 
